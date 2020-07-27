@@ -1,12 +1,9 @@
-# 👩🏻‍💻 Profile Website
+# Hi 👋 I'm hongmei 👩🏻‍💻
 
-## Contents
-1. Hello
-2. Background
-3. Skills
-4. Projects
-5. Get in touch
+I'm currently in my final year of [university](https://www.suss.edu.sg/programmes/detail/bsc-information-technology-and-business-erp-bherp) pursuing a degree in information technology and business 👩🏻‍🎓 
 
-## Inspiration and References
-1. brittanychiang.com
-2. https://bchiang7.github.io/
+I have created personal projects from simple static web pages to full-fledged web applications. I always strive to write clean and readable codes that are a breeze to maintain. I aspire toward a career that allows me to use my creativity to bridge the gap between back-end engineering 🌈  and  🌈 front-end design. Work to me is the best form of education, so I'm always on the look out for opportunities to learn from and work with those who are willing to inspire me with their wisdom.
+
+My career (and life) goal is to be happy 😃 and I am the happiest when my brain is working hard at producing creative and efficient solutions that solve problems. 
+
+Curious about what my brain  🧠  churns out? Check out some of my projects below 👇
