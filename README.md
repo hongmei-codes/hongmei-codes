@@ -1,6 +1,6 @@
 # Hi 👋 I'm hongmei 👩🏻‍💻
 
-I'm currently in my final year of [university](https://www.suss.edu.sg/programmes/detail/bsc-information-technology-and-business-erp-bherp) pursuing a degree in information technology and business 👩🏻‍🎓 
+I'm currently in my final year of university pursuing a degree in information technology and business 👩🏻‍🎓 
 
 I have created personal projects from simple static web pages to full-fledged web applications. I always strive to write clean and readable codes that are a breeze to maintain. I aspire toward a career that allows me to use my creativity to bridge the gap between back-end engineering 🌈  and  🌈 front-end design. Work to me is the best form of education, so I'm always on the look out for opportunities to learn from and work with those who are willing to inspire me with their wisdom.
 
